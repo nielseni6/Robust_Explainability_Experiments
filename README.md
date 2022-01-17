@@ -2,11 +2,11 @@
 
 ## Install
 
-Clone repo.
+1. Clone repo.
 
 ``git clone https://github.com/nielseni6/ShiftSmoothedAttributions.git``
 
-Make sure to have the following required libraries if you do not already.
+2. Make sure to have the following required libraries if you do not already.
 
 >Python 3.8.5
 > 
@@ -29,9 +29,12 @@ Make sure to have the following required libraries if you do not already.
 >numpy 1.22.1
 
 
-Pretrained models can be found here: https://drive.google.com/drive/u/0/folders/1KdJ0aK0rPjmowS8Swmzxf8hX6gU5gG2U 
+3. Pretrained models can be found here: https://drive.google.com/drive/u/0/folders/1KdJ0aK0rPjmowS8Swmzxf8hX6gU5gG2U 
 and here: https://www.dropbox.com/s/knf4uimlqsi1yz8/imagenet_l2_3_0.pt?dl=0
 
+Add these files to the \model folder.
+
+4. Run the following scripts to generate the figures which can be found in the paper:
 
 Visualize_Saliency_ImageNet.py:
 [fig2.pdf](https://github.com/nielseni6/Robust_Explainability_Experiments/files/7874143/fig2.pdf)
