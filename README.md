@@ -42,6 +42,7 @@ Add these files to the \model folder.
 
 Visualize_Saliency_ImageNet.py:
 [fig2.pdf](https://github.com/nielseni6/Robust_Explainability_Experiments/files/7874143/fig2.pdf)
+![fig2](https://user-images.githubusercontent.com/36169018/149972829-99b81130-e543-41a8-8cd8-6c3771c9c440.png)
 
 Visualize_Target_Class.py:
 [fig3.pdf](https://github.com/nielseni6/Robust_Explainability_Experiments/files/7874144/fig3.pdf)
