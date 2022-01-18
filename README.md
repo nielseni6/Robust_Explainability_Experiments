@@ -46,6 +46,9 @@ Visualize_Saliency_ImageNet.py:
 
 Visualize_Target_Class.py:
 [fig3.pdf](https://github.com/nielseni6/Robust_Explainability_Experiments/files/7874144/fig3.pdf)
+![fig3](https://user-images.githubusercontent.com/36169018/149973069-db4db331-be18-4895-a3d0-6329f4de9980.png)
 
 Visualize_Robust_Grad.py:
 [fig4.pdf](https://github.com/nielseni6/Robust_Explainability_Experiments/files/7874145/fig4.pdf)
+![fig4](https://user-images.githubusercontent.com/36169018/149973102-3f6ee0f3-80c4-4a0f-b7e8-6fd265ee34d7.png)
+
