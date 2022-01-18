@@ -52,3 +52,4 @@ Visualize_Robust_Grad.py:
 [fig4.pdf](https://github.com/nielseni6/Robust_Explainability_Experiments/files/7874145/fig4.pdf)
 ![fig4](https://user-images.githubusercontent.com/36169018/149973102-3f6ee0f3-80c4-4a0f-b7e8-6fd265ee34d7.png)
 
+For questions contact nielseni6@rowan.edu to get more information on the paper
